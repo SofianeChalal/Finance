@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 24 14:58:28 2022
-
 @author: Sofiane_C
 
 Merton Jump Diffusion Model
